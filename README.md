@@ -1,2 +1,3 @@
 # run_ccgp_analysis
-Code for CCGP analysis
+Codes for CCGP analysis
+Referenced in Hwang et al., 2025 Nature Communiciations
